@@ -4,4 +4,4 @@ All the local CTF I've joined as:
 
 
 In competition:
-[Rawsec rENTAS 2024](https://github.com/catveiraMain/localCTF/tree/main/rawsec-rentas2024)
+1. [Rawsec rENTAS 2024](https://github.com/catveiraMain/localCTF/tree/main/rawsec-rentas2024)
