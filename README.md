@@ -1,4 +1,4 @@
-# localCTF
+# Local CTF Contestant
 All the local CTF I've joined as:
 1. Script Kiddies MIIT
 
