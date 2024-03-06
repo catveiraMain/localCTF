@@ -29,6 +29,6 @@ Attachment:
 Flag: RWSC{C4L1_C4RT3L_PWN3D}
 
 There are no hints in this one because someone unexpectedly found the flag so soon before the question even revealed.
-The method performed wass to take "RWSC" and "Cali Cartel" as a keyword is the search browser (Google, DuckDuckGO or etc) is doable and the first thing that will appear is a Reddit comment with the flag:
+The method performed was to take "RWSC" and "Cali Cartel" as a keyword is the search browser (Google, DuckDuckGO or etc) is doable and the first thing that will appear is a Reddit comment with the flag:
 
 ![CaliCartel](https://media.discordapp.net/attachments/524898749911400458/1214870069860106260/image.png?ex=65faaeeb&is=65e839eb&hm=8d94f726ba220801dbd128a6aad27cd0cf578ed1008e1845bc86bb1741421aaa&=&format=webp&quality=lossless&width=1219&height=533)
